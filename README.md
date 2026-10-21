@@ -4,25 +4,7 @@ Welcome to my Python Automation repository! This collection features two standal
 
 ---
 
-## 📁 Repository Structure
-
-The projects are organized into dedicated subfolders for clean modular structure:
-
-```text
-Python-Automation-Toolkit/
-│
-├── 📁 Student_Management_System/
-│   └── student_management.py      # Console database logbook
-│
-├── 📁 Automatic_File_Organizer/
-│   └── file_organizer.py          # Smart file sorting utility
-│
-└── 📄 README.md                   # Project documentation
-```
-
----
-
-## 🚀 Projects Overview
+## 🚀 Tasks Overview
 
 ### 1. Student Management System
 A console-based data tracking dashboard designed to execute core database operations while permanently storing information locally.
